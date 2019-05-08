@@ -4,7 +4,7 @@ Esta prueba está diseñada para que te diviertas construyendo un prototipo y po
 
 ## Reto técnico
 
-Prototipa uno de los siguientes proyectos
+Prototipa uno de los siguientes proyectos:
 
 - Ghibli films
 - Harvard museums
@@ -34,7 +34,7 @@ Crea un visor para los cómics de xkcd que me permita guardar favoritos.
 
 ## Readme
 
-Escribe el readme de tu proyecto como si fuera a ir a producción.
+Escribe el readme de tu proyecto como si fuera a ir a producción, ten en cuenta lo siguiente:
 
 - Describe el principal problema que resolviste y la solución
 - Explicación de la arquitectura que elegiste
@@ -42,9 +42,9 @@ Escribe el readme de tu proyecto como si fuera a ir a producción.
 - Link a la parte del código que te sientas más orgulloso
 - Link a la aplicación en producción (usa un servicio gratuito como now, heroku, firebase, etc)
 
-## Cómo es el proceso de revisión
+## ¿Cómo es el proceso de revisión?
 
-La prueba va a ser revisada por uno o más de nuestros ingenieros, vamos a tener el cuenta el nivel para el que aplicas.
+La prueba va a ser revisada por uno o más de nuestros ingenieros, vamos a tener en cuenta el nivel para el que aplicas.
 
 No te preocupes por el tiempo o por dejar partes por fuera, nos importa más la calidad.
 
