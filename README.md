@@ -60,3 +60,9 @@ No te preocupes por el tiempo o por dejar partes por fuera, nos importa más la 
 - Decisiones técnicas: ¿Hacen sentido las librerías, arquitectura que usaste para la aplicación?
 - Escalabilidad: ¿Va a escalar bien cuando crezca el número de usuarios?
 - Listo para producción: ¿Cumple con todos los requisitos para ir a producción?
+
+## Enviando la prueba
+
+Envía tu prueba junto con tu CV a careers@resuelve.io. Como asunto del correo usa la posición para la que estás aplicando, y asegúrate de en tu mensaje incluir cómo encontraste la oferta disponible.
+
+Nota: Te pedimos que la solución al reto la entregues en un repositorio público de GitHub, Bitbucket, GitLab, o lo que sea que uses. Es importante para nosotros poder ver el historial de commits que te llevaron a la solución que propones. Por favor evita que tu prueba tenga un solo commit visible.
